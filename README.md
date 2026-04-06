@@ -1,72 +1,80 @@
-<h1 align="center">Hey 👋, I'm Sk. Umme Salma</h1>
+<h1 align="center">✨ Sk. Umme Salma ✨</h1>
 
-<h3 align="center">🐍 Python Developer | 🌐 Web Developer | 🔐 Cyber Security Student</h3>
+<h3 align="center">🚀 Python Web Developer | 🔐 Cyber Security Student | 🤖 AI & ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Django+Backend+Developer;Web+Development+Enthusiast;Open+to+Internships&center=true&width=600&height=50&color=F72585">
+  <a href="https://github.com/skummesalma463-pixel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/umme-salma-shaik-7b0982378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/231fa19002/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skummesalma463-pixel&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Full+Stack+Developer;Django+%7C+REST+API+Developer;AI+%26+ML+Explorer;Open+to+Internships;Future+10-14+LPA+Engineer&center=true&width=650&height=50&color=00FFB3">
 </p>
 
 ---
 
 ## 🌸 About Me
 
-✨ I'm **Sk. Umme Salma**  
-🎓 B.Tech 3rd Year (CSE - Cyber Security)  
-🐍 Strong in **Python & Django Development**  
-🌐 Passionate about **Web Development**  
-🔐 Learning Cyber Security Concepts  
-🎯 Goal: Crack a **10–14 LPA Software Developer Role**
+💫 I'm **Sk. Umme Salma**  
+🎓 3rd Year B.Tech (CSE - Cyber Security)  
+💻 Focused on **Python Web Development (Django + REST APIs)**  
+🤖 Exploring **AI & Machine Learning Projects**  
+🔐 Cyber Security Student with developer mindset  
+🎯 Goal: Crack a **10–14 LPA Software Role**  
 
-💡 *I build real-world backend systems using Django & REST APIs*
+💡 *I build real-world applications that solve practical problems.*
 
 ---
 
-## 🐍 Tech Stack (Python Focused)
+## 🚀 Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-ff9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🌐 Frontend Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
+## 💎 Real World Projects
 
 ### 🔥 Placement Management Portal (Django)
-✨ Role-based system for Admin & Students  
-📌 Job posting, application tracking  
-🔐 Authentication system + Django ORM  
+✔ Role-based system (Admin + Students)  
+✔ Job postings & application tracking  
+✔ Authentication + Dashboard + Database integration  
+
 🔗 GitHub: (add your repo link)
 
 ---
 
 ### ⚡ Task Manager REST API (DRF)
-🧠 Built REST APIs (CRUD operations)  
-🔐 JWT Authentication  
-📬 Tested APIs using Postman  
+✔ CRUD APIs (Create, Update, Delete, Filter)  
+✔ JWT Authentication  
+✔ Tested using Postman  
+
 🔗 GitHub: (add your repo link)
+
+---
+
+## 🧠 Problem Solving
+
+💡 Solved **200+ Problems on LeetCode**  
+👩‍💻 Strong in **DSA, OOP, DBMS, REST APIs**  
 
 ---
 
@@ -84,47 +92,29 @@
 
 ## 🏆 Achievements
 
-🏅 Solved **200+ LeetCode Problems**  
+🥇 1st Place - Zonal Taekwondo Sports Meet  
+📜 Multiple Certifications in Web & Python  
 👩‍🏫 Mentored juniors in DSA  
-🥇 1st Place - Zonal Taekwondo  
 
 ---
 
-## 🌈 Connect With Me
+## 💼 Open To Work
 
-<p align="center">
+🚀 Actively looking for:
+- Web Developer Internships  
+- Python / Django Roles  
+- AI-Based Projects  
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:skummesalma463@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-ff4081?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
+💌 Email: **skummesalma463@gmail.com**
 
 ---
 
-## 🧠 Current Focus
+## 💡 Developer Mindset
 
-🚀 Building Django Projects  
-📈 Practicing DSA (LeetCode)  
-🔐 Learning Cyber Security  
-💼 Preparing for Internships  
-
----
-
-## 💡 Quote
-
-✨ *"Consistency + Skills = Success"*
+✨ *"Dream Big. Build Smart. Stay Consistent."*
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ⭐ If you like my work, give a star and let's connect!
 </p>
