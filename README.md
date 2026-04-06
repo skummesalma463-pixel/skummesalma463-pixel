@@ -1,4 +1,4 @@
-<h1 align="center">✨ Sk. Umme Salma ✨</h1>
+<h1 align="center">Shaik. Umme Salma </h1>
 
 <h3 align="center">🚀 Python Web Developer | 🔐 Cyber Security Student | 🤖 AI & ML Learner</h3>
 
