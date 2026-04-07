@@ -59,7 +59,7 @@ Main point:I love to do things that make a sense!!!
 ✔ Job postings & application tracking  
 ✔ Authentication + Dashboard + Database integration  
 
-🔗 GitHub: (add your repo link)
+🔗 GitHub: (https://github.com/skummesalma463-pixel)
 
 ---
 
@@ -68,7 +68,7 @@ Main point:I love to do things that make a sense!!!
 ✔ JWT Authentication  
 ✔ Tested using Postman  
 
-🔗 GitHub: (add your repo link)
+🔗 GitHub: (https://github.com/skummesalma463-pixel)
 
 ---
 
