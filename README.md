@@ -29,6 +29,7 @@
 🔐 Cyber Security Student with developer mindset  
 🎯 Goal: Crack a **10–14 LPA Software Role**  
 Main point:I love to do things that make a sense!!!
+
 💡 *I build real-world applications that solve practical problems.*
 
 ---
