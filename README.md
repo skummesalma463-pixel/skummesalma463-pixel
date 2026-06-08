@@ -24,7 +24,6 @@
 
 💫 I'm **Sk. Umme Salma**  
 🎓 Final Year B.Tech (CSE - Cyber Security) Undergraduate Batch 2023-2027
-
 💻 Focused on **Python Web Development (Django + REST APIs)**  
 🤖 Exploring **AI & Machine Learning Projects**  
 🔐 Cyber Security Student with developer mindset  
