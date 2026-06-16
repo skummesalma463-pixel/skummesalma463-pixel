@@ -63,10 +63,10 @@ My Interests : I love to do things that make a sense!!!
 
 ---
 
-### ⚡ Task Manager REST API (DRF)
-✔ CRUD APIs (Create, Update, Delete, Filter)  
-✔ JWT Authentication  
-✔ Tested using Postman  
+### Twitter Sentiment Analysis :  Python, React.js, NLP, NLTK, Machine Learning
+• Developed an AI-powered platform to classify Twitter/X posts into Positive, Negative, and Neutral sentiments.
+• Built a responsive dashboard for real-time sentiment analysis and trend visualization.
+• Applied NLP and Machine Learning techniques for sentiment prediction and analytics
 
 🔗 GitHub: (https://github.com/skummesalma463-pixel)
 
