@@ -29,6 +29,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 * Interested in AI, Machine Learning, and Secure Software Development
 * Passionate about solving real-world problems through technology
 * Open to internships and software development opportunities
+* I love to do things that make a sense
 
 > "I build practical applications that create real impact."
 
