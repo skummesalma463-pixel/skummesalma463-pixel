@@ -29,7 +29,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 * Interested in AI, Machine Learning, and Secure Software Development
 * Passionate about solving real-world problems through technology
 * Open to internships and software development opportunities
-* I love to do things that make a sense
+* I enjoy building meaningful and impactful solutions
 
 > "I build practical applications that create real impact."
 
@@ -85,12 +85,25 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 **Django | SQLite**
 
 * Role-based portal for students and administrators
-* Job posting and applicati## LeetCode Stats
+* Job posting and application tracking
+* Authentication and dashboard integration
+
+---
+
+### Task Manager REST API
+
+**Django REST Framework | JWT | Postman**
+
+* Task creation and management APIs
+* JWT Authentication and Authorization
+* Filtering, validation, and exception handling
+
+---
+
+## LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
-
 </p>
 
 ---
@@ -98,9 +111,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 ## LeetCode Activity Graph
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=heatmap" />
-
 </p>
 
 ---
@@ -110,7 +121,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 <p align="center">
 
 <a href="https://leetcode.com/u/231fa19002/">
-  <img src="https://img.shields.io/badge/LeetCode-125%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-110%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/skummesalma463-pixel">
@@ -119,10 +130,12 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 </p>
 
+---
+
 ## Problem Solving
 
 * Solved **110+ DSA Problems** on LeetCode
-* Strong understanding of DSA, OOP, DBMS, REST APIs, and Computer Networks
+* Good understanding of DSA, OOP, DBMS, REST APIs, and Computer Networks
 * Regularly practice coding and problem-solving
 
 ---
@@ -156,6 +169,8 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 * Python Data Structures – Great Learning
 * Java Programming – PwC
 * Diploma in Python & C – Techno Soft
+* Google Analytics Certification
+* 8 Cisco Networking Academy Certifications
 
 ---
 
@@ -164,7 +179,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 * 1st Place – Zonal Taekwondo Sports Meet
 * Completed 8 Cisco Networking Academy Certifications
 * Developed 4+ Full Stack Applications
-* Solved 125+ DSA Problems
+* Solved 110+ DSA Problems
 
 ---
 
