@@ -100,6 +100,43 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 ---
 
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
+
+</p>
+
+---
+
+## LeetCode Activity Graph
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=heatmap" />
+
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/231fa19002/">
+  <img src="https://img.shields.io/badge/LeetCode-125%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/skummesalma463-pixel">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 ## Problem Solving
 
 * Solved **110+ DSA Problems** on LeetCode
