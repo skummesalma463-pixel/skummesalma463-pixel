@@ -145,7 +145,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 * 1st Place – Zonal Taekwondo Sports Meet
 * Completed 8 Cisco Networking Academy Certifications
 * Developed 4+ Full Stack Applications
-* Solved 110+ DSA Problems
+* Solved 125+ DSA Problems
 
 ---
 
