@@ -70,17 +70,6 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 ## Projects
 
-### AI Resume Analyzer
-
-**React.js | Node.js | Express.js | MongoDB**
-
-* AI-powered resume evaluation platform
-* ATS score prediction and keyword matching
-* AI-generated recommendations
-* Secure backend APIs and resume screening workflow
-
----
-
 ### Twitter Sentiment Analysis
 
 **Python | React.js | NLP | Machine Learning**
