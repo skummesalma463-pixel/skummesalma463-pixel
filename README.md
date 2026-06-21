@@ -100,13 +100,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 ---
 
-## LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
 
 ## LeetCode Activity Graph
 
