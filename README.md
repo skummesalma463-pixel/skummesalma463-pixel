@@ -1,4 +1,4 @@
-<h1 align="center">Shaik Umme Salma</h1>
+<h1 align="center">Hi,I am Shaik Umme Salma</h1>
 
 <h3 align="center">Full Stack Developer | Python Developer | Cyber Security Undergraduate</h3>
 
@@ -128,7 +128,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 ## Problem Solving
 
-* Solved **110+ DSA Problems** on LeetCode
+* Solved **125+ DSA Problems** on LeetCode
 * Good understanding of DSA, OOP, DBMS, REST APIs, and Computer Networks
 * Regularly practice coding and problem-solving
 
