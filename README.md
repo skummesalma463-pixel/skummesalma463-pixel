@@ -85,25 +85,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 **Django | SQLite**
 
 * Role-based portal for students and administrators
-* Job posting and application tracking
-* Authentication and dashboard integration
-
----
-
-### Task Manager REST API
-
-**Django REST Framework | JWT | Postman**
-
-* Task creation and management APIs
-* JWT Authentication and Authorization
-* Filtering, validation, and exception handling
-
----
-
-
----
-
-## LeetCode Stats
+* Job posting and applicati## LeetCode Stats
 
 <p align="center">
 
