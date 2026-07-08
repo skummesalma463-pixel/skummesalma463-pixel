@@ -128,7 +128,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 
 ## Problem Solving
 
-* Solved **125+ DSA Problems** on LeetCode
+* Solved **140+ DSA Problems** on LeetCode
 * Good understanding of DSA, OOP, DBMS, REST APIs, and Computer Networks
 * Regularly practice coding and problem-solving
 
