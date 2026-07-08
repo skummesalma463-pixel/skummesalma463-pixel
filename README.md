@@ -115,7 +115,7 @@ I am **Shaik Umme Salma**, a B.Tech student specializing in **Cyber Security** a
 <p align="center">
 
 <a href="https://leetcode.com/u/231fa19002/">
-  <img src="https://img.shields.io/badge/LeetCode-110%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-140%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/skummesalma463-pixel">
