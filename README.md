@@ -92,7 +92,7 @@ Git • GitHub • VS Code • Linux • Postman
 ## 💻 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=231fa19002&theme=dark" />
+  <img src="https://YOUR-VERCEL-PROJECT.vercel.app/api/card?username=231fa19002&theme=dark&show=graph,recent" />
 </p>
 
 
