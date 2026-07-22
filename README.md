@@ -74,18 +74,6 @@ Git • GitHub • VS Code • Linux • Postman
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=skummesalma463-pixel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skummesalma463-pixel&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -101,20 +89,12 @@ Git • GitHub • VS Code • Linux • Postman
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=skummesalma463-pixel&theme=tokyonight&margin-w=15"/>
-</p>
-
----
-
-## 💻 LeetCode Stats
+## 💻 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=231fa19002&theme=dark" />
 </p>
+
 
 ---
 
