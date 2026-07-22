@@ -89,10 +89,10 @@ Git • GitHub • VS Code • Linux • Postman
 </p>
 
 ---
-## 💻 LeetCode
+## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-PROJECT.vercel.app/api/card?username=231fa19002&theme=dark&show=graph,recent" />
+  <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
