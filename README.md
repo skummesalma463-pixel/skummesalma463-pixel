@@ -74,6 +74,13 @@ Git • GitHub • VS Code • Linux • Postman
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -87,15 +94,6 @@ Git • GitHub • VS Code • Linux • Postman
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=skummesalma463-pixel&theme=tokyo-night"/>
 </p>
-
----
-## 💻 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
-</p>
-
-
 ---
 
 ## 📫 Connect With Me
