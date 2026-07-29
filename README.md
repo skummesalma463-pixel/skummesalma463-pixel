@@ -81,13 +81,6 @@ Git • GitHub • VS Code • Linux • Postman
 </p>
 
 ---
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=skummesalma463-pixel&theme=tokyonight"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
