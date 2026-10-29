@@ -79,14 +79,6 @@ Git • GitHub • VS Code • Linux • Postman
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/231fa19002?theme=dark&font=Karma&ext=contest" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skummesalma463-pixel&theme=tokyo-night"/>
-</p>
 ---
 
 ## 📫 Connect With Me
